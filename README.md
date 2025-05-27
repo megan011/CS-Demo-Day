@@ -6,6 +6,16 @@ Concept: This is a battle game where different characters will fight against eac
 
 OOP (Classes): There will be a base class called Character that has different subclasses including a Knight, Soldier, and Archer based on a random dice roll. Weapons will also be represented by a Weapon class which contains weapon names with its subclasses being its damage power. 
 
+Data Members:
+
+name: character's name
+
+health: numeric health value
+
+role: "Knight", "Soldier", or "Archer"
+
+
+
 Inheritance: All subclasses will use super() to have shared attributes from the Character class. 
 
 Polymorphism: All fighters will be stored into a list 
