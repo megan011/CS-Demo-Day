@@ -1,6 +1,6 @@
 # CS-Demo-Day
 
-Battle Simulator 
+🛡️⚔ Battle Simulator ⚔🛡️
 
 Concept: This is a battle game where different characters will fight against each other and gain their role of either a Knight, Soldier, or Archer based on a random dice roll. Players can either attack or use a special move each turn. Based on the role, the player will gain certain weapons that will affect their result in the battle. 
 
